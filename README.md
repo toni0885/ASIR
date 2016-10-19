@@ -13,3 +13,20 @@ Los lenguajes a utilizar para la tarea son:
 Visualización del archivo creado:
 ![HTML](html.png)
 
+#### Lenguaje CSS
+Visualización del archivo creado:
+![HTML](css.png)
+
+#### Lenguaje XML
+Visualización del archivo creado:
+![HTML](xml.png)
+
+#### Lenguaje PS
+Visualización del archivo creado:
+![HTML](ps.png)
+
+#### Lenguaje RTF
+Visualización del archivo creado:
+![HTML](rtf.png)
+
+
