@@ -43,7 +43,7 @@ Visualización del archivo creado:
 #### NOTAS:
 
 Para abrir los archivos HTML, CSS y XML se ha utilizado el navegador **Mozilla Firefox**.  
-Las capturas de pantalla son propias y creadas con el programa **Paint**.
+Las capturas de pantalla son propias y creadas con el programa **Paint**.  
 Para abrir el archivo PostScript se ha utilizado el visor **[GSVIEW](www.gsview.com)**.  
 Para abrir el archivo RTF se ha utilizado el programa **Wordpad**.
 
