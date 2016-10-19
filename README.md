@@ -44,8 +44,8 @@ Visualización del archivo creado:
 
 Para abrir los archivos _HTML_, _CSS_ y _XML_ se ha utilizado el navegador **Mozilla Firefox**.  
 Las capturas de pantalla son propias y creadas con el programa **Paint**.  
-Para abrir el archivo PostScript se ha utilizado el visor **[GSVIEW](www.gsview.com)**.  
-Para abrir el archivo RTF se ha utilizado el programa **Wordpad**.  
+Para abrir el archivo _PostScript_ se ha utilizado el visor **[GSVIEW](www.gsview.com)**.  
+Para abrir el archivo _RTF_ se ha utilizado el programa **Wordpad**.  
 En el repositorio se han incluído todas las capturas de pantalla realizadas para la tarea.  
 
 
