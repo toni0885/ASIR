@@ -30,5 +30,5 @@ Visualización del archivo creado:
 ![HTML](rtf.png)
 
 #### NOTAS:
-Para abrir los archivos se ha utilizado el navegador **Mozilla Firefox**.
+Para abrir los archivos se ha utilizado el navegador **Mozilla Firefox**.  
 Las capturas de pantalla son propias y creadas con el programa **Paint**.
