@@ -19,25 +19,26 @@ Visualización del archivo creado:
 
 Visualización del archivo creado:
 
-![HTML](css.png)
+![CSS](css.png)
 
 #### Lenguaje XML
 
 Visualización del archivo creado:
 
-![HTML](xml.png)
+![XML](xml.png)
+Código XML copiado de la página: https://support.office.com/es-es/article/XML-para-principiantes-A87D234D-4C2E-4409-9CBC-45E4EB857D44
 
 #### Lenguaje PS
 
 Visualización del archivo creado:
 
-![HTML](ps.png)
+![PS](ps.png)
 
 #### Lenguaje RTF
 
 Visualización del archivo creado:
 
-![HTML](rtf.png)
+![RTF](rtf.png)
 
 #### NOTAS:
 
