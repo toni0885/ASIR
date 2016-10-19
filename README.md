@@ -9,32 +9,32 @@ Los lenguajes a utilizar para la tarea son:
 * PS
 * RFT
 
-#### Lenguaje HTML
+#### Lenguaje _HTML_
 
 Visualización del archivo creado:
 
 ![HTML](html.png)
 
-#### Lenguaje CSS
+#### Lenguaje _CSS_
 
 Visualización del archivo creado:
 
 ![CSS](css.png)
 
-#### Lenguaje XML
+#### Lenguaje _XML_
 
 Visualización del archivo creado:
 
 ![XML](xml.png)
 Código XML copiado de la página: https://support.office.com/es-es/article/XML-para-principiantes-A87D234D-4C2E-4409-9CBC-45E4EB857D44
 
-#### Lenguaje PS
+#### Lenguaje _PS_
 
 Visualización del archivo creado:
 
 ![PS](ps.png)
 
-#### Lenguaje RTF
+#### Lenguaje _RTF_
 
 Visualización del archivo creado:
 
@@ -42,7 +42,7 @@ Visualización del archivo creado:
 
 #### NOTAS:
 
-Para abrir los archivos HTML, CSS y XML se ha utilizado el navegador **Mozilla Firefox**.  
+Para abrir los archivos _HTML_, _CSS_ y _XML_ se ha utilizado el navegador **Mozilla Firefox**.  
 Las capturas de pantalla son propias y creadas con el programa **Paint**.  
 Para abrir el archivo PostScript se ha utilizado el visor **[GSVIEW](www.gsview.com)**.  
 Para abrir el archivo RTF se ha utilizado el programa **Wordpad**.  
