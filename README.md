@@ -11,5 +11,5 @@ Los lenguajes a utilizar para la tarea son:
 
 #### Lenguaje HTML
 Visualización del archivo creado:
-![HTML](Archivo HTML.png)
+![HTML](html.png)
 
