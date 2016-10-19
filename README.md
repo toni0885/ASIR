@@ -2,12 +2,12 @@
 #### Tarea 1 LGMSGI
 Creación de un repositorio en [Github](www.github.com) e incorporar a él todos los archivos conteniendo los lenguajes de marcas especificados.
 Se han creado los archivos en texto plano, modificando posteriormente la extensión.
-Los lenguajes a utilizar para la tarea son:
-* HTML
-* CSS
-* XML
-* PS
-* RFT
+Los lenguajes a utilizados para la tarea son:
+* _HTML_
+* _CSS_
+* _XML_
+* _PS_
+* _RFT_
 
 #### Lenguaje _HTML_
 
